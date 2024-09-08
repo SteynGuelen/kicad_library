@@ -1,0 +1,54 @@
+Library: relays
+	Symbol Name: 3-1462039-1_0
+	Footprint Name: RELAY-SMD_HFD4-XX-SR
+	LCSC ID: C5340850
+
+Library: transceivers
+
+Library: transformers
+	Symbol Name: G48C08S_0
+	Footprint Name: SMD-48_L27.8-W12.3-P1.02-LS15.3-BL
+	LCSC ID: C5368822
+	Symbol Name: H1102NLT_0
+	Footprint Name: XFMR-SMD_H1102NLT
+	LCSC ID: C18584
+	Symbol Name: G48C01S_0
+	Footprint Name: SMD-48_L27.8-W12.3-P1.02-LS15.3-BL
+	LCSC ID: C2827284
+
+
+
+
+
+
+
+Library: transistors
+	Symbol Name: DMP3099L-7_0
+	Footprint Name: SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+	LCSC ID: C155244
+	Symbol Name: PMBT3904,215_0
+	Footprint Name: SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+	LCSC ID: C8667
+
+Library: sensors
+	Symbol Name: AS5600-ASOT_0
+	Footprint Name: SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL
+	LCSC ID: C499458
+
+
+
+Library: interface_usb
+	Symbol Name: CH224K_0
+	Footprint Name: ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP
+	LCSC ID: C970725
+
+
+
+Library: interface_ethernet
+	Symbol Name: IP175G_0
+	Footprint Name: QFN-48_L6.0-W6.0-P0.40-BL-EP4.2
+	LCSC ID: C80220
+
+
+
+Library: interface_rsxxx
